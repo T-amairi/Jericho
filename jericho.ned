@@ -14,7 +14,7 @@ simple NM
 
         //******* PARAMETERS *******//
         double rateMean @unit(s) = 0.588s; //exponential distribution with the given mean
-        int transactionLimit = 4; //how much transactions the node will issue
+        int transactionLimit = 3; //how much transactions the node will issue
         
     gates:
         input in[];
