@@ -5,4 +5,4 @@ For more information, see the doc file.
 
 Here is a demo using OMNeT++:
 
-![Demo](doc/jericho.mp4)
+<video src='doc/jericho.mp4' />
